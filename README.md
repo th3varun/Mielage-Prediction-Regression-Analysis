@@ -78,7 +78,7 @@ Model Accuracy:
 
 1. Mean Absolute Error: value
 2. Mean Absolute Percentage Error: value
-3. R^2 Score: value
+3. R² Score: value
 
 ##Conclusion
 
